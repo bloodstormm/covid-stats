@@ -1,0 +1,28 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+@layer components {
+    body::-webkit-scrollbar {
+        width: 8px;
+    }
+    body::-webkit-scrollbar-thumb {
+        background: rgb(182, 182, 182);
+        border-radius: 10px;
+    }
+    body::-webkit-scrollbar-thumb:hover {
+        background: rgb(5, 150, 105);
+    }
+
+    .text {
+        @apply text-gray-700 dark:text-gray-100;
+    }
+    .card {
+        @apply shadow-xl bg-white dark:bg-gray-800 text-center rounded-md p-10 space-y-4;
+    }
+    .link {
+        @apply hover:underline focus:outline-none text-green-600 font-semibold;
+    }
+}
