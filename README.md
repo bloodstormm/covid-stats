@@ -19,7 +19,7 @@ podendo ser tanto claro, quanto escuro.
 ![Covid-Stats Global](https://github.com/bloodstormm/covid-stats/blob/master/src/assets/covid-stats.jpg)
 
 
-![Tasky](https://github.com/bloodstormm/covid-stats/blob/master/src/assets/covid-stats-brasil.jpg)
+![Tasky](https://github.com/bloodstormm/covid-stats/blob/master/src/assets/covid-stats-brasil.png)
 
 ---
 
